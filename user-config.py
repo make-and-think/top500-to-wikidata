@@ -1,0 +1,1 @@
+usernames['wikidata']['test'] = 'MonkeyWorker'  # Test Wikidata bot
